@@ -53,7 +53,6 @@
 			children = (
 				84F1FB82226845E600C6752B /* Main.storyboard */,
 				842A4879226B9F56002A742A /* SongCell.swift */,
-				842A4874226B7B54002A742A /* Supporting Files */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -110,6 +109,7 @@
 			children = (
 				842A4873226B7B17002A742A /* Controler */,
 				842A4872226B7B02002A742A /* Model */,
+				842A4874226B7B54002A742A /* Supporting Files */,
 				842A4871226B7AEC002A742A /* View */,
 			);
 			path = WebScrapping;
